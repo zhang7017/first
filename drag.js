@@ -1,3 +1,3 @@
-function drag(){
+function drag(id){
 	
 }
